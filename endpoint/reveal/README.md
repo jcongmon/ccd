@@ -6,7 +6,7 @@ You are a forensic investigator at a financial institution, and your SIEM flagge
 ## Questions
 ### Identifying the name of the malicious process helps in understanding the nature of the attack. What is the name of the malicious process?
 
-<img src="https://i.imgur.com/kRWFXPz.png" width=50% height=50%>
+<img src="https://i.imgur.com/kRWFXPz.png" width=80% height=80%>
 
 powershell.exe
 
