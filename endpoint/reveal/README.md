@@ -7,21 +7,16 @@ You are a forensic investigator at a financial institution, and your SIEM flagge
 All questions were solved using Volatility 3.
 
 ### Identifying the name of the malicious process helps in understanding the nature of the attack. What is the name of the malicious process?
-
 <img src="https://i.imgur.com/kRWFXPz.png" width=80% height=80%>
-windows.malfind
 
 ### Knowing the parent process ID (PPID) of the malicious process aids in tracing the process hierarchy and understanding the attack flow. What is the parent PID of the malicious process?
 <img src="https://i.imgur.com/qftcvS1.png" width=80% height=80%>
-windows.psxtree
 
 ### Determining the file name used by the malware for executing the second-stage payload is crucial for identifying subsequent malicious activities. What is the file name that the malware uses to execute the second-stage payload?
 <img src="https://i.imgur.com/qftcvS1.png" width=80% height=80%>
-windows.psxtree
 
 ### Identifying the shared directory on the remote server helps trace the resources targeted by the attacker. What is the name of the shared directory being accessed on the remote server?
 <img src="https://i.imgur.com/qftcvS1.png" width=80% height=80%>
-windows.psxtree
 
 ### What is the MITRE ATT&CK sub-technique ID that describes the execution of a second-stage payload using a Windows utility to run the malicious file?
 <img src="https://i.imgur.com/btsx0Xs.png" width=80% height=80%>
