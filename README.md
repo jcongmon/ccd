@@ -7,7 +7,7 @@ I executed hands-on cybersecurity forensics and threat analysis projects, levera
 
 ## Categories
 ### Endpoint Forensics
-- [Reveal](https://github.com/jcongmon/htb/blob/main/starting-point/tier0/meow/README.md) (Defense Evasion, Discovery, Volatility 3)
+- [Reveal](https://github.com/jcongmon/ccd/tree/main/endpoint/reveal) (Defense Evasion, Discovery, Volatility 3)
 
 ### Network Forensics
 ### Threat Hunting
