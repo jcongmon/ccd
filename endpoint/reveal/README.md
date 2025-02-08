@@ -5,7 +5,9 @@ You are a forensic investigator at a financial institution, and your SIEM flagge
 
 ## Questions
 ### Identifying the name of the malicious process helps in understanding the nature of the attack. What is the name of the malicious process?
+
 <img src="https://imgur.com/ogUjEGX" width=50% height=50%>
+
 powershell.exe
 
 ### Knowing the parent process ID (PPID) of the malicious process aids in tracing the process hierarchy and understanding the attack flow. What is the parent PID of the malicious process?
