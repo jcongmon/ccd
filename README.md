@@ -8,6 +8,8 @@ I executed hands-on cybersecurity forensics and threat analysis projects, levera
 ## Categories
 ### Endpoint Forensics
 - [Reveal](https://github.com/jcongmon/ccd/tree/main/endpoint/reveal) (Defense Evasion, Discovery, Volatility 3)
+- [Ramnit](https://github.com/jcongmon/ccd/tree/main/endpoint/ramnit) (Execution, Defense Evasion, C2, Volatility 3, ANY.RUN)
+
 ### Network Forensics
 - [DanaBot](https://github.com/jcongmon/ccd/tree/main/network/danabot) (Execution, C2, Wireshark, VirusTotal, ANY.RUN)
 ### Threat Hunting
