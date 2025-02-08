@@ -18,5 +18,3 @@ I executed hands-on cybersecurity forensics and threat analysis projects, levera
 ### Malware Analysis
 ### Detection Engineering
 ### Cloud Forensics
-### Malware Analysis
-
