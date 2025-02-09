@@ -1,0 +1,147 @@
+Volatility 3 Framework 2.20.1
+
+Offset(Virtual)	Name		PID	pslist	psscan	thrdscan	csrss	Exit Time
+
+0xca82b3c5b200	spoolsv.exe	2564	True	True	True	True	
+0xca82b87e5200	RuntimeBroker.	7948	True	True	True	True	
+0xca82b3907080	svchost.exe	1740	True	True	True	True	
+0xca82b3e6b080	svchost.exe	3128	True	True	True	True	
+0xca82b7a9b080	RuntimeBroker.	5948	True	True	True	True	
+0xca82b7a4f080	svchost.exe	7660	False	True	False	False	2024-02-01 19:51:41+00:00
+0xca82b81ab080	SearchFilterHo	7032	False	True	False	False	2024-02-01 19:50:31+00:00
+0xca82b8b27080	setup.exe	5184	False	True	False	False	2024-02-01 19:53:22+00:00
+0xca82b8e87080	MicrosoftEdgeU	7312	False	True	False	False	2024-02-01 19:53:40+00:00
+0xca82b3153280	svchost.exe	1164	True	True	True	True	
+0xca82b75a7280	msdtc.exe	4836	True	True	True	True	
+0xca82b7757280	svchost.exe	4760	True	True	True	True	
+0xca82b3e6a300	taskhostw.exe	3116	True	True	True	True	
+0xca82b830a300	ChromeSetup.ex	4628	True	True	True	True	
+0xca82b3e68240	svchost.exe	2872	True	True	True	True	
+0xca82b3efa240	svchost.exe	3356	True	True	True	True	
+0xca82b7406240	svchost.exe	4416	True	True	True	True	
+0xca82b3dd8240	svchost.exe	2988	True	True	True	True	
+0xca82b7107240	ctfmon.exe	3936	True	True	True	True	
+0xca82b0e88040	System	4	True	True	True	False	
+0xca82b1a95040	smss.exe	320	True	True	True	False	
+0xca82b299a240	svchost.exe	808	True	True	True	True	
+0xca82b3038240	svchost.exe	984	True	True	True	True	
+0xca82b30c7240	svchost.exe	740	True	True	True	True	
+0xa500000f50c0	SkypeApp.exe	4792	False	True	False	False	
+0xca82b3d8e240	svchost.exe	2912	True	True	True	True	
+0xca82b7b16240	svchost.exe	6504	True	True	True	True	
+0xca82b8586240	SecurityHealth	7580	True	True	True	True	
+0xca82b77792c0	svchost.exe	5220	True	True	True	True	
+0xca82b8b352c0	svchost.exe	3832	True	True	True	True	
+0xca82b79f0080	TiWorker.exe	5816	False	True	False	False	2024-02-01 19:50:31+00:00
+0xca82b7df4080	WinStore.App.e	8728	True	True	True	True	
+0xca82b30d9080	svchost.exe	948	False	True	False	False	2024-02-01 19:53:32+00:00
+0xca82b1f68080	csrss.exe	448	True	True	True	False	
+0xca82b0eeb080	Registry	108	True	True	True	False	
+0xca82b2843080	wininit.exe	524	True	True	True	True	
+0xca82b28cb080	winlogon.exe	624	True	True	True	True	
+0xca82b28e9080	services.exe	660	True	True	True	True	
+0xca82b2923080	lsass.exe	676	True	True	True	True	
+0xca82b299d080	fontdrvhost.ex	844	True	True	True	True	
+0xca82b30a2080	LogonUI.exe	364	True	True	False	False	2024-02-01 19:48:37+00:00
+0xca82b30a3080	dwm.exe	372	True	True	True	True	
+0xca82b3140080	svchost.exe	1156	True	True	True	False	
+0xca82b3920080	svchost.exe	1724	True	True	True	False	
+0xca82b0f38080	svchost.exe	2092	True	True	True	True	
+0xca82b0fc0080	svchost.exe	2280	True	True	True	False	
+0xca82b78c4080	StartMenuExper	5676	True	True	True	True	
+0xca82b7b10080	SearchApp.exe	2128	True	True	True	False	
+0xca82b797c080	backgroundTask	1400	False	True	False	False	2024-02-01 19:50:12+00:00
+0xca82b3a30280	svchost.exe	1916	True	True	True	True	
+0xca82b3ef4280	vmtoolsd.exe	3296	True	True	True	True	
+0xca82b7320280	dllhost.exe	4276	True	True	True	True	
+0xca82b7424280	WmiPrvSE.exe	4492	True	True	True	True	
+0xca82b8e7b300	dllhost.exe	8420	True	True	True	True	
+0xca82b79e5080	MicrosoftEdgeU	7500	True	True	True	True	
+0xca82b8308080	audiodg.exe	7272	True	True	True	True	
+0xca82b29be2c0	svchost.exe	928	True	True	True	True	
+0xca82b318f2c0	svchost.exe	1260	True	True	True	True	
+0xca82b38042c0	svchost.exe	1384	True	True	True	True	
+0xca82b0e970c0	svchost.exe	2244	True	True	True	True	
+0xca82b3be80c0	svchost.exe	2500	True	True	True	True	
+0xca82b39042c0	svchost.exe	1716	True	True	True	True	
+0xca82b3a322c0	svchost.exe	1932	True	True	True	True	
+0xca82b3a362c0	svchost.exe	1944	True	True	True	True	
+0xca82b3b382c0	svchost.exe	2484	True	True	True	True	
+0xca82b3ca22c0	svchost.exe	2612	True	True	True	True	
+0xca82b7b0a0c0	svchost.exe	5932	True	True	True	True	
+0xca82b7daa0c0	SearchIndexer.	6252	True	True	True	True	
+0xca82b814a0c0	OneDrive.exe	7780	True	True	True	True	
+0xca82b88020c0	SkypeApp.exe	4792	True	True	True	True	
+0xca82b3817240	svchost.exe	1420	True	True	True	True	
+0xca82b39bb240	svchost.exe	1844	True	True	True	True	
+0xca82b3dda2c0	svchost.exe	2996	True	True	True	True	
+0xca82b896d340	RuntimeBroker.	2220	True	True	True	True	
+0xca82b313e300	svchost.exe	1136	True	True	True	True	
+0xca82b3115300	svchost.exe	1068	True	True	True	True	
+0xca82b313f300	svchost.exe	1144	True	True	True	True	
+0xca82b3855300	svchost.exe	1452	True	True	True	True	
+0xca82b38c7300	svchost.exe	1644	True	True	True	True	
+0xca82b390c300	svchost.exe	1684	True	True	True	True	
+0xca82b3b2c300	svchost.exe	2004	True	True	True	True	
+0xca82b3cbb300	svchost.exe	2704	True	True	True	True	
+0xca82b3d90300	svchost.exe	2920	True	True	True	True	
+0xca82b3dae300	svchost.exe	2972	True	True	True	True	
+0xca82b0f69080	svchost.exe	2384	True	True	True	True	
+0xca82b7229080	svchost.exe	3104	True	True	True	True	
+0xca82b0fb1080	svchost.exe	2328	True	True	True	True	
+0xca82b3df5080	svchost.exe	3040	True	True	True	True	
+0xca82b8bd5080	RuntimeBroker.	8848	True	True	True	True	
+0xca82b7061280	svchost.exe	3692	True	True	True	True	
+0xca82b7681280	taskhostw.exe	3152	True	True	True	True	
+0xca82b8c08300	SearchProtocol	8696	True	True	True	True	
+0xca82b1c74300	SearchFilterHo	3004	True	True	True	True	
+0xca82b287f140	csrss.exe	532	True	True	True	False	
+0xca82b299c140	fontdrvhost.ex	836	True	True	True	True	
+0xca82b7426340	userinit.exe	4508	True	True	False	False	2024-02-01 19:48:52+00:00
+0xca82b7440340	explorer.exe	4568	True	True	True	True	
+0xca82b82d0340	smartscreen.ex	7484	True	True	True	True	
+0xca82b8f85340	SgrmBroker.exe	7040	True	True	True	True	
+0xca82b8e84340	svchost.exe	2544	True	True	True	True	
+0xca82b742b340	svchost.exe	6080	True	True	True	False	2024-02-01 19:51:30+00:00
+0xca82b8b0f340	WMIADAP.exe	2964	True	True	True	True	
+0xca82b880b340	ShellExperienc	2608	True	True	True	True	
+0xa500001ac080	LockApp.exe	6964	False	True	False	False	
+0xca82b8b2c080	setup.exe	6140	False	True	False	False	2024-02-01 19:53:23+00:00
+0xca82b8b8d080	MicrosoftEdgeU	7708	False	True	False	False	2024-02-01 19:53:40+00:00
+0xca82b1c90240	svchost.exe	3852	True	True	True	True	
+0xca82b7b14240	RuntimeBroker.	6216	True	True	True	True	
+0xca82b3d432c0	svchost.exe	2864	True	True	True	True	
+0xca82b3e9f2c0	svchost.exe	3160	True	True	True	True	
+0xca82b3f8f2c0	svchost.exe	3420	True	True	True	True	
+0xca82b81ef2c0	svchost.exe	5592	True	True	True	True	
+0xca82b8ba72c0	svchost.exe	7968	True	True	True	True	
+0xca82b8e19080	MoUsoCoreWorke	8116	False	True	False	False	2024-02-01 19:54:01+00:00
+0xca82b3152080	svchost.exe	1172	True	True	True	True	
+0xca82b0fbe080	svchost.exe	2288	True	True	True	True	
+0xca82b7682080	svchost.exe	3228	True	True	True	True	
+0xca82b7dca080	LockApp.exe	6964	True	True	True	True	
+0xca82b7dbe080	vmtoolsd.exe	7684	True	True	True	True	
+0xca82b8046080	WmiPrvSE.exe	6984	True	True	True	True	
+0xca82b8ba2080	ApplicationFra	7112	True	True	True	True	
+0xca82b8b86080	WWAHost.exe	5912	True	True	True	True	
+0xca82b3c32080	BackgroundTran	7788	False	True	False	False	2024-02-01 19:50:14+00:00
+0xa5000019d080	vmtoolsd.exe	7684	False	True	False	False	
+0xca82b3d1a280	sihost.exe	2760	True	True	True	True	
+0xca82b3ed6280	svchost.exe	3208	True	True	True	True	
+0xca82b7752280	svchost.exe	5132	True	True	True	True	
+0xca82b3edd300	VGAuthService.	3248	True	True	True	True	
+0xca82b758d300	svchost.exe	4796	True	True	True	True	
+0xca82b8582080	MicrosoftEdgeU	1100	False	True	False	False	2024-02-01 19:53:40+00:00
+0xca82b79841c0	svchost.exe	7380	True	True	True	True	
+0xca82b39b9040	MemCompression	1828	True	True	True	False	
+0xca82b82d80c0	RuntimeBroker.	2928	True	True	True	True	
+0xa500001840c0	SearchIndexer.	6252	False	True	False	False	
+0xca82b84cc080	svchost.exe	6500	True	True	True	True	
+0xa500001cc080	WinStore.App.e	8728	False	True	False	False	
+0xca82b3d55240	svchost.exe	2876	True	True	True	True	
+0xca82b3ef1240	wlms.exe	3288	True	True	True	True	
+0xca82b3d1c2c0	svchost.exe	2776	True	True	True	True	
+0xca82b81d42c0	RuntimeBroker.	7068	True	True	True	True	
+0xca82b8b182c0	RuntimeBroker.	5624	True	True	True	True	
+0xa5000013f340	ShellExperienc	2608	False	True	False	False	
+0xca82b7858080	SecurityHealth	7540	True	True	True	True	
