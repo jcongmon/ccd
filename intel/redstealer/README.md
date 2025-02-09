@@ -8,6 +8,7 @@ Your task is to investigate this executable by analyzing its hash. The goal is t
 
 ## Questions
 SHA256 - 248fcc901aff4e4b4c48c91e4d78a939bf681c9a1bc24addc3551b32768f907b
+
 All questions were answered with VirusTotal, MalwareBazaar, ThreatFox, and ANY.RUN.
 
 ### Categorizing malware enables a quicker and easier understanding of its distinct behaviors and attack vectors. What is the category of the identified malware?
