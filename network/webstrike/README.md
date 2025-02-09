@@ -7,10 +7,10 @@ A suspicious file was identified on a company web server, raising alarms within 
 All questions were solved using Wireshark.
 
 ### Identifying the geographical origin of the attack helps in implementing geo-blocking measures and analyzing threat intelligence. From which city did the attack originate?
-<img src="https://i.imgur.com/7hADJQg.png" width=80% height=80%>
+<img src="https://i.imgur.com/7hADJQg.png" width=50% height=50%>
 
 ### Knowing the attacker's User-Agent assists in creating robust filtering rules. What's the attacker's User-Agent?
-<img src="https://i.imgur.com/7hADJQg.png" width=80% height=80%>
+<img src="https://i.imgur.com/wTryMSm.png" width=80% height=80%>
 
 ### We need to determine if any vulnerabilities were exploited. What is the name of the malicious web shell that was successfully uploaded?
 <img src="https://i.imgur.com/eL0Wy1s.png" width=80% height=80%>
