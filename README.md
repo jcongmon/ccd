@@ -14,6 +14,7 @@ I executed hands-on cybersecurity forensics and threat analysis projects, levera
 - [DanaBot](https://github.com/jcongmon/ccd/tree/main/network/danabot) (Execution, C2, Wireshark, VirusTotal, ANY.RUN)
 ### Threat Hunting
 ### Threat Intel
+- [Red Stealer](https://github.com/jcongmon/ccd/tree/main/intel/redstealer) (Execution, Persistence, Privilege Escalation, Defense Evation, Discovery, VirusTotal, MalwareBazaar, ThreatFox, ANY.RUN)
 ### Cloud Forensics
 ### Malware Analysis
 ### Detection Engineering
