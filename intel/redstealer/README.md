@@ -36,4 +36,4 @@ All questions were answered with VirusTotal, MalwareBazaar, ThreatFox, and ANY.R
 <img src="https://i.imgur.com/tD4cb0X.png" width=80% height=80%>
 
 ### By identifying the malware's imported DLLs, we can configure security tools to monitor for the loading or unusual usage of these specific DLLs. Can you provide the DLL utilized by the malware for privilege escalation?
-<img src="https://i.imgur.com/bWxBiDL.png" width=80% height=80%>
+<img src="https://i.imgur.com/bWxBiDL.png" width=40% height=40%>
